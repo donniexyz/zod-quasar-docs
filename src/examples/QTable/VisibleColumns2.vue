@@ -10,7 +10,7 @@
       <template v-slot:top="props">
         <img
           style="height: 50px; width: 50px"
-          src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg"
+          src="statics/quasar-logo.svg"
         >
 
         <q-space />

@@ -7,7 +7,7 @@
       .landing__hero-content.row.justify-center.q-gutter-xl
 
         .row
-          img.landing__logo(src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg")
+          img.landing__logo(src="statics/quasar-logo.svg")
 
         .flex.justify-end
           .q-gutter-sm
@@ -192,7 +192,7 @@
     q-toolbar.q-pa-none
       q-btn.quasar-logo.text-bold(flat, no-caps, no-wrap, to="/start")
         q-avatar.doc-landing-avatar
-          img(src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg")
+          img(src="statics/quasar-logo.svg")
         q-toolbar-title(shrink) Docs
 
       q-space

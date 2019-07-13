@@ -10,7 +10,7 @@
       <q-input rounded outlined v-model="text">
         <template v-slot:append>
           <q-avatar>
-            <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg">
+            <img src="statics/quasar-logo.svg">
           </q-avatar>
         </template>
       </q-input>
