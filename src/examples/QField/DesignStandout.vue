@@ -89,7 +89,7 @@
       <q-field standout :value="text" bottom-slots label="Label" stack-label counter maxlength="12" :dense="dense">
         <template v-slot:before>
           <q-avatar>
-            <img src="https://cdn.quasar.dev/img/avatar5.jpg">
+            <img src="statics/img/avatar5.jpg">
           </q-avatar>
         </template>
 

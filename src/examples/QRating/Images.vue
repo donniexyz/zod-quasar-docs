@@ -3,7 +3,7 @@
     <q-rating
       v-model="ratingModel"
       size="3.5em"
-      icon="img:https://cdn.quasar.dev/logo/svg/quasar-logo.svg"
+      icon="img:statics/quasar-logo.svg"
     />
   </div>
 </template>

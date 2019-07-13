@@ -30,7 +30,7 @@
       </q-chip>
       <q-chip>
         <q-avatar>
-          <img src="https://cdn.quasar.dev/img/avatar5.jpg">
+          <img src="statics/img/avatar5.jpg">
         </q-avatar>
         John
       </q-chip>

@@ -23,7 +23,7 @@ export default {
       props: [
         {
           label: 'Satisfied customers',
-          avatar: 'https://cdn.quasar.dev/img/boy-avatar.png',
+          avatar: 'statics/img/boy-avatar.png',
           children: [
             {
               label: 'Good food',

@@ -2,7 +2,7 @@
   <div class="q-pa-md">
     <q-parallax>
       <template v-slot:media>
-        <img src="https://cdn.quasar.dev/img/parallax2.jpg">
+        <img src="statics/img/parallax2.jpg">
       </template>
 
       <template v-slot:content="scope">

@@ -38,7 +38,7 @@ export default {
   computed: {
     url () {
       return {
-        avatar: 'https://cdn.quasar.dev/team/' + this.avatar,
+        avatar: 'statics/team/' + this.avatar,
         twitter: 'https://twitter.com/' + this.twitter,
         github: 'https://github.com/' + this.github,
         email: 'mailto:' + this.email

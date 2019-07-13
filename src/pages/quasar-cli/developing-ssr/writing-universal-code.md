@@ -5,7 +5,7 @@ desc: Guide on how to write code for a Quasar server-side rendered app.
 
 Writing `universal` code (also called `isomorphic`) means writing code that runs on both the server and the client. Due to use-case and platform API differences, the behavior of our code will not be exactly the same when running in different environments. Here we will go over the key things you need to be aware of.
 
-![Quasar SSR Build System](https://cdn.quasar.dev/img/ssr-build.png "Quasar SSR Build System")
+![Quasar SSR Build System](statics/img/ssr-build.png "Quasar SSR Build System")
 
 ## Data Reactivity on the Server
 In a client-only app, every user will be using a fresh instance of the app in their browser. For server-side rendering we want the same: each request should have a fresh, isolated app instance so that there is no cross-request state pollution.

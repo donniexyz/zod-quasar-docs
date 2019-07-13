@@ -27,7 +27,7 @@ src/
         safari-pinned-tab.svg
 ```
 
-<img src="https://cdn.quasar.dev/img/iconfactory.png" style="float:right;max-width:15%;min-width:240px;padding-top:40px" />
+<img src="statics/img/iconfactory.png" style="float:right;max-width:15%;min-width:240px;padding-top:40px" />
 
 ## The Icon Genie
 

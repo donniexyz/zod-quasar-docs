@@ -44,7 +44,7 @@
   section.padding.bg-white.text-grey-10.text-center
     .landing__features.row.items-start.q-col-gutter-xl
       .col-12.text-center
-        img.doc-img(src="https://cdn.quasar.dev/img/responsive.png")
+        img.doc-img(src="statics/img/responsive.png")
       .col-12.text-center
         .q-gutter-lg
           q-icon(name="fab fa-apple")
@@ -234,7 +234,7 @@ export default {
   border-radius 0
 
 .landing
-  background #000 url('https://cdn.quasar.dev/img/quasar-cover.jpg') no-repeat center center fixed
+  background #000 url('../statics/img/quasar-cover.jpg') no-repeat center center fixed
   background-size cover
 
   > section
@@ -297,7 +297,7 @@ export default {
     background-repeat no-repeat !important
     background-position top center
     background-size contain !important
-    background-image url(https://cdn.quasar.dev/img/landing_first_section.png) !important
+    background-image url(../statics/img/landing_first_section.png) !important
 
   &__footer-icons
     font-size 28px
@@ -351,6 +351,6 @@ body.mobile .landing
     right 0
     bottom 0
     z-index -1 /* needed to keep in the background */
-    background #000 url('https://cdn.quasar.dev/img/quasar-cover.jpg') center center
+    background #000 url('../statics/img/quasar-cover.jpg') center center
     background-size cover
 </style>

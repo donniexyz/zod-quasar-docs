@@ -6,7 +6,7 @@
       <q-timeline-entry
         title="Event Title"
         subtitle="February 22, 1986"
-        avatar="https://cdn.quasar.dev/img/avatar3.jpg"
+        avatar="statics/img/avatar3.jpg"
         :body="body"
       />
 

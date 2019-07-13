@@ -25,7 +25,7 @@
     <q-item clickable v-ripple class="bg-grey-2">
       <q-item-section avatar>
         <q-avatar rounded>
-          <img src="https://cdn.quasar.dev/img/chaosmonkey.png">
+          <img src="statics/img/chaosmonkey.png">
         </q-avatar>
       </q-item-section>
 

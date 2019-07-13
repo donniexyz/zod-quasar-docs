@@ -3,7 +3,7 @@ title: Introduction to Quasar Framework
 desc: What Quasar is and how it can considerably reduce your development time and costs.
 ---
 
-![Quasar - Empowering your websites and apps](https://cdn.quasar.dev/img/responsive.png)
+![Quasar - Empowering your websites and apps](statics/img/responsive.png)
 
 ## What is Quasar?
 Quasar (pronounced `/ˈkweɪ.zɑɹ/`) is an MIT licensed open-source Vue.js based framework, which allows you as a web developer to quickly create responsive++ websites/apps in many flavours:

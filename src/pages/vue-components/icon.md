@@ -49,8 +49,8 @@ For `icon` properties on different Quasar components you won't have the means to
 You can also make an icon point to an image URL instead of relying on any webfont, by using the `img:` prefix.
 
 ```html
-<q-icon name="img:https://cdn.quasar.dev/logo/svg/quasar-logo.svg" />
-<q-btn icon="img:https://cdn.quasar.dev/logo/svg/quasar-logo.svg" ... />
+<q-icon name="img:statics/quasar-logo.svg" />
+<q-btn icon="img:statics/quasar-logo.svg" ... />
 <q-icon name="img:statics/my/path/to/some.svg" />
 ```
 
