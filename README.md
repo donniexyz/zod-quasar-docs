@@ -1,3 +1,16 @@
+# Standalone Quasar Documentation
+(To run Quasar Framework Documentation on local PC. Main goal is to build it on mobile)
+
+****Run Quasar Documentation on local:****
+```
+$ quasar dev
+```
+
+
+------------------------------------------
+**Below is the original Quasar README.md**
+------------------------------------------
+
 ![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-full-inline.svg)
 
 ## Quasar Framework Documentation
