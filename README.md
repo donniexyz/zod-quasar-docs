@@ -1,5 +1,5 @@
 # Standalone Quasar Documentation
-(To run Quasar Framework Documentation on local PC. Main goal is to build it on mobile)
+This project is to run Quasar Framework Documentation on local PC. Main goal is to build it as mobile app.
 
 ****Run Quasar Documentation on local:****
 ```
